@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MagWall
+  - Floor
+  - DoorSwitch
+  - Enemy
+  - CableConnector
+  - Door
+  - ElectricityRecepter
+  - Waypoint
+  - Switch
+  - CircleBar
+  - Indicator
+  - DetectionBar
+  - DoorPivot
+  - Wall
+  - Bullet
+  - WaterBullet
+  - ElectricalDoor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - whatIsBullet
+  - Minimap
+  - RadarHit
+  - XRay
+  - Wall
+  - Gun
+  - 
+  - 
+  - CableConector
+  - ElectricityRecepter
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Radar
+    uniqueID: 609803847
+    locked: 0
+  - name: PointOnRadar
+    uniqueID: 2464306117
+    locked: 0
