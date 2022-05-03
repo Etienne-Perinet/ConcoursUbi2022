@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7103037468685684525
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7103037468685684523}
+  - component: {fileID: 7103037468685684524}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7103037468685684523
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7103037468685684525}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -7.514534, y: 1.1686534, z: 13.461154}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7103037468685684524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7103037468685684525}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08b1e7bbda3b0d343a928f984bd8585a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: GameplayLoop
+    clip: {fileID: 8300000, guid: 69352fe75a82479439999eef1d9907e5, type: 3}
+    volume: 0.163
+    pitch: 1
+    space: 0
+    sourceIsObject: 0
+    source: {fileID: 0}
+    loop: 1
+  - name: MenuMusic
+    clip: {fileID: 8300000, guid: bcbfbf851cc978b4aa387a86ab851417, type: 3}
+    volume: 0.174
+    pitch: 1
+    space: 0
+    sourceIsObject: 0
+    source: {fileID: 0}
+    loop: 1
+  - name: DoorOpen
+    clip: {fileID: 8300000, guid: a83363e92e2599348b6c55d350d6413a, type: 3}
+    volume: 0.439
+    pitch: 1
+    space: 0.85
+    sourceIsObject: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: DoorClose
+    clip: {fileID: 8300000, guid: 9e73abb3c82ca55458435fb1d2277a64, type: 3}
+    volume: 0.382
+    pitch: 1
+    space: 0.85
+    sourceIsObject: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: ElectricGunShoot
+    clip: {fileID: 8300000, guid: 4a6b8c62659c2c341b6ce62606771aae, type: 3}
+    volume: 0.261
+    pitch: 1
+    space: 0.7
+    sourceIsObject: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: WaterGunShoot
+    clip: {fileID: 8300000, guid: a11ea3380df91d54b9a758dad04b5ebf, type: 3}
+    volume: 0.325
+    pitch: 1
+    space: 0.7
+    sourceIsObject: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: WaterGunShoot
+    clip: {fileID: 8300000, guid: a11ea3380df91d54b9a758dad04b5ebf, type: 3}
+    volume: 0.325
+    pitch: 1
+    space: 0.7
+    sourceIsObject: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: ChaseMusic
+    clip: {fileID: 8300000, guid: c6bd817af4a3bc243bf47998ed9f373d, type: 3}
+    volume: 0.328
+    pitch: 1
+    space: 0
+    sourceIsObject: 0
+    source: {fileID: 0}
+    loop: 1
+  - name: TicTac
+    clip: {fileID: 8300000, guid: d33ded46f4249de409deac5063c44cb9, type: 3}
+    volume: 0.304
+    pitch: 1
+    space: 0.991
+    sourceIsObject: 1
+    source: {fileID: 0}
+    loop: 1
+  - name: DetectSound
+    clip: {fileID: 8300000, guid: 6830aa14136327d45b4dfcc6d463dca7, type: 3}
+    volume: 0.266
+    pitch: 1
+    space: 0
+    sourceIsObject: 0
+    source: {fileID: 0}
+    loop: 0
+  - name: ElectricDoorSound
+    clip: {fileID: 8300000, guid: 08b95b0c494fd984484e0b08167186a2, type: 3}
+    volume: 0.651
+    pitch: 0.703
+    space: 0.488
+    sourceIsObject: 1
+    source: {fileID: 0}
+    loop: 0

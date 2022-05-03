@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: d7e185dfe4522384aa69fa1f6bc571bd
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Banc_Down_Shader
+    second: {fileID: 2100000, guid: 4a29507912d70954da60b7114c23f666, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Banc_Sides_Shader
+    second: {fileID: 2100000, guid: 4c2e494909a6f784ea81a1cb1ba92487, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Banc_Up_Shader
+    second: {fileID: 2100000, guid: 982f1c0c78679984f980d856dc7b5938, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Battery_Light1_Shader
+    second: {fileID: 2100000, guid: 65266a3dfbe2599428d138dc8f87b6e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Battery_Light2_Shader
+    second: {fileID: 2100000, guid: 7a2ecd4bb586e83419341798bad2051a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Battery_Light3_Shader
+    second: {fileID: 2100000, guid: a2ca87c4b0bdc3e4ca283b14e972b27f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Battery_Light4_Shader
+    second: {fileID: 2100000, guid: 79a29d37263262d44a5ecf151fd27c18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Battery_Shader
+    second: {fileID: 2100000, guid: 4b96ba70e19daa447b8e7b9d71674988, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cable_02_Smalls_Shader
+    second: {fileID: 2100000, guid: 9b5f38dd8f29ddb4a82d5c1ad197797d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cable_General_Shader
+    second: {fileID: 2100000, guid: ec70bc34a63e20c4d8a26372152e5940, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Electric_Box_Alarm_Light_Shader
+    second: {fileID: 2100000, guid: f997a2b86d3c55f4aa095070c8b8a927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Electric_Box_Cable_Shader
+    second: {fileID: 2100000, guid: 8136ecbae8be2ca488a0bbccd6a08a31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Electric_Box_Gen_Shader
+    second: {fileID: 2100000, guid: 73cb998d351e4554bb92d2770f806d8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Electric_Box_Inside_Shader
+    second: {fileID: 2100000, guid: adb04686c5febeb438f99e07ffdfbbfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minitel_Ecran_Box_Shader
+    second: {fileID: 2100000, guid: 54db724ad4b443a43ae9caa5de6b1f86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minitel_Ecran_Screen_Shader
+    second: {fileID: 2100000, guid: ebc8c4b9ffd67f747a6ee4cae6afbf1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minitel_Keyboard_Shader
+    second: {fileID: 2100000, guid: ec677528324e0bf4f815cd2071357ed4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minitel_Keys_Shader
+    second: {fileID: 2100000, guid: 0f4076a0d31680043a2f10d26707c961, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pupitre_Down_Shader
+    second: {fileID: 2100000, guid: 197d5e0ff93845c4199883f894c3e382, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pupitre_Sides_Banc_Shader
+    second: {fileID: 2100000, guid: fdf5d8a83b185bf4f837a5181dd17b37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pupitre_Sides_Shader
+    second: {fileID: 2100000, guid: 14cc83be02a3d5844954da698412cd6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pupitre_Table_Shader
+    second: {fileID: 2100000, guid: eab110deea650a64891e4b50355ed1a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pupitre_Tiroir_Shader
+    second: {fileID: 2100000, guid: 8e7f0a815b7b4ca4387b1e98cbdd98c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pupitre_Up_Banc_Shader
+    second: {fileID: 2100000, guid: f53add2f1db794040b949acf72fb26a2, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

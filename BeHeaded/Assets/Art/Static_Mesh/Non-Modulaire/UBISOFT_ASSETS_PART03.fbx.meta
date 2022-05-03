@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: 756500d75052140439c128f7ff893299
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beam_Arch_Tip_Shader
+    second: {fileID: 2100000, guid: f5b5991804ea3d04fb40ab0684e4ae81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beam_Arch_middle_Shader
+    second: {fileID: 2100000, guid: 555d00f090166894694c2370f4bdec15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beam_Simple_Shader
+    second: {fileID: 2100000, guid: dbb642c2ec8501447abffcf4bd7f5505, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Double_Corridor_L_Poignees_Shader
+    second: {fileID: 2100000, guid: 74a6276938743114bb511ce8e875dd7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Double_Corridor_L_wood_Shader
+    second: {fileID: 2100000, guid: 52842b537a4f2394f90842c64c7e64c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Double_Corridor_R_Poignees_Shader
+    second: {fileID: 2100000, guid: 203c790c1e543c943aea2ff80980715b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Double_Corridor_R_wood_Shader
+    second: {fileID: 2100000, guid: ac37e9fd0cccd1a4c930827b1dfc5d7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Electric_Buttons_Shader
+    second: {fileID: 2100000, guid: 595d9d1add319ea4395f4d846ff14724, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Electric_Cadre_Shader
+    second: {fileID: 2100000, guid: 3ea8fef941ce19e48b8a80101e728ab8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Electric_HoldButton01_Shader
+    second: {fileID: 2100000, guid: b2e39425794f626479d40a5d0e599fef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Electric_HoldButton02_Shader
+    second: {fileID: 2100000, guid: e7e6a3acf14704a488d4cb082048595a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Electric_TrueDoor_Shader
+    second: {fileID: 2100000, guid: ecaffc8e1b409c34280098ac68a9abfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Electric_Wall_Shader
+    second: {fileID: 2100000, guid: 909d7f8bfd02f9040b9a8e2b795adf01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_JanitorRoom_Shader
+    second: {fileID: 2100000, guid: f596a20d258cdb8418f650fee2e6cc91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Janitor_Armoire_Shader
+    second: {fileID: 2100000, guid: e102ecdeca725ea459f8c5482ee320cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Janitor_Beam_Janitor_Shader
+    second: {fileID: 2100000, guid: b115e62fae49ab34cbfa88a6aa6eb729, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Janitor_Door_HoldPoignees_Shader
+    second: {fileID: 2100000, guid: c29a3217052b8a54eaef8a2c7c0b5ee1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Janitor_Door_Ouvreurs_Shader
+    second: {fileID: 2100000, guid: 0678cd7176967cf4daaf9b8173760b3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Janitor_Door_Poignees_Shader
+    second: {fileID: 2100000, guid: 295e10f0817d8234a8546f3fae806378, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Janitor_Door_Protections_Shader
+    second: {fileID: 2100000, guid: e516b9f9090b8c042a7a5bfe7357870a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Janitor_Door_TueDoor_Shader
+    second: {fileID: 2100000, guid: c61779e255404ae4dae6fa80fede1e95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ladder_Janitor_Shader
+    second: {fileID: 2100000, guid: c3c91d803352a9643bcfb7a509c24463, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pipe_Roof_Shader
+    second: {fileID: 2100000, guid: e7a0d766bbc0a5e4896667ceacb14558, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof_JanitorRoom_Shader
+    second: {fileID: 2100000, guid: ec52ca36accbf0e488c54a555cd44063, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seau_Gen_Shader
+    second: {fileID: 2100000, guid: f95dabcbee4b03841aaf53622cd0e76e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seau_Handle01_Shader
+    second: {fileID: 2100000, guid: b852d95a1d6245e4a9f43bf994965a00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seau_Handle02_Shader
+    second: {fileID: 2100000, guid: b79a235a73ed58941ae9dbdd3924da63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shelf_Janitor_Shader
+    second: {fileID: 2100000, guid: d1da6384f16c2f745874ab48d60c02a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallDoor_Janitor_Room_Wall_Shader
+    second: {fileID: 2100000, guid: 2131c7741aede1d47a3b0685db31bdd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallDoor_Janitor_Room_Wood_Shader
+    second: {fileID: 2100000, guid: 5ab80c15cc4f5624a851376a1009bc47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallDoor_Library_Close_Door_Shader
+    second: {fileID: 2100000, guid: 7b54a618a6436214f98a4682f8a87039, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallDoor_Library_Close_Poignees_Shader
+    second: {fileID: 2100000, guid: 9463c3fa31c75184a8673834affb2324, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallDoor_Library_Stones_Shader
+    second: {fileID: 2100000, guid: 4533671e99c3d314d96d64fe6a88357c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallDoor_Library_TrueWall_Shader
+    second: {fileID: 2100000, guid: 665d584c25f163c4f95568573151edb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallDoor_Library_Wall_Shader
+    second: {fileID: 2100000, guid: e84ae6202453dfc4a8ae8200a8d554aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallWindow_Corridor_Wall_Shader
+    second: {fileID: 2100000, guid: fb64d8b9b5e16274fb5e09505cd67281, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallWindow_Corridor_Window_Shader
+    second: {fileID: 2100000, guid: d0d08b4f9f82a514cacc8e406a5d8f36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallWindow_Corridor_Wood_Shader
+    second: {fileID: 2100000, guid: 0935cf908b0bd0d4097e60fdb42b9225, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallWindow_Library_Wall_Shader
+    second: {fileID: 2100000, guid: 8cff16ed6445a8e449e9e3f8f02d5fdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallWindow_Library_Window_Shader
+    second: {fileID: 2100000, guid: 156de3da2f9b65840bbf4f1c91ff9362, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallWindow_Library_Wood_Shader
+    second: {fileID: 2100000, guid: 11df6d9271402e44690710d22d95624f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Corridor_L_Wall_Shader
+    second: {fileID: 2100000, guid: 812fa656bbae5ee4b8b1efead46f0b6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Corridor_L_Wood_Shader
+    second: {fileID: 2100000, guid: afc2cfd221d0c8f4894e772a290edcf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Corridor_R_Wall_Shader
+    second: {fileID: 2100000, guid: 1ff162a64bb82a44aa5419361130f9b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Corridor_R_Wood_Shader
+    second: {fileID: 2100000, guid: f137be15501500e419c07ead07449d8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Double_Door_Cader_Corridor_Shader
+    second: {fileID: 2100000, guid: 3f1f2a1431f770945828ae83d3f27a76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Double_Door_Corridor_Wall_Shader
+    second: {fileID: 2100000, guid: d5ab7429783b5c345a944ac9b7c8ba22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Double_Door_Corridor_Wood_Shader
+    second: {fileID: 2100000, guid: 289fb3a62cf9d2f4392aa8eac4eed229, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Janitor_Room_Wall_Shader
+    second: {fileID: 2100000, guid: a500c375465fcd54c844503183a5d77e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Janitor_Room_Wood_Shader
+    second: {fileID: 2100000, guid: 978d5deee5f0d694e9fc12e64336843e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Library_Shader
+    second: {fileID: 2100000, guid: 54dedaccf1f19f046a4f8c7298971950, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
